@@ -1,6 +1,6 @@
 ## Hi there, I am ANSHAJ KUMAR! 👋
 
-- I am a **Competitive Programmer, App Developer & Web Developer.** .
+- I am a **Competitive Programmer, App Developer & Web Developer.**
 
 - Programming language - **C, C++, Java, Python.**
 - Quite comfortable in **MERN** Stack and flexible to learn new things.
