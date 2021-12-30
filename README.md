@@ -20,7 +20,6 @@
 <img src="https://logo.letskhabar.com/img/?tool=react" alt="react">
 <img src="https://logo.letskhabar.com/img/?tool=bootstrap" alt="bs">
 <img src="https://logo.letskhabar.com/img/?tool=python" alt="py">
-<img src="https://logo.letskhabar.com/img/?tool=flutter" alt="flutter">
 
 <img src="https://logo.letskhabar.com/img/?tool=android" alt="android">
 <img src="https://logo.letskhabar.com/img/?tool=amazon-web-services" alt="amazon-web-services">
