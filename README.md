@@ -10,7 +10,7 @@
 
 
 
-## 🛠 &nbsp;Languages and Tools: 
+<!-- ## 🛠 &nbsp;Languages and Tools: 
 <span>
 <img src="https://logo.letskhabar.com/img/?tool=c-programming" alt="c-programming">
 <img src="https://logo.letskhabar.com//img/?tool=c-plus" alt="c-plus">
@@ -32,14 +32,14 @@
 <img src="https://logo.letskhabar.com/img/?tool=google_cloud" alt="google_cloud">
 <img src="https://logo.letskhabar.com/img/?tool=vs-code" alt="vsc">
 </span>  
-
-
+ -->
+<!-- 
 ## 🤝🏻 &nbsp;Connect with me:
 
 [<img src="https://logo.letskhabar.com/img/?tool=linkedin" alt="linkedin" width="30px">](https://www.linkedin.com/in/anshaj-sharma/)
 [<img src="https://logo.letskhabar.com/img/?tool=gmail" alt="gmail" width="30px">](mailto:anshajkumarsharma@gmail.com)
 [<img src="https://logo.letskhabar.com/img/?tool=twitter" alt="twitter" width="30px">](https://twitter.com/anshaj_sharma01)
-[<img src="https://logo.letskhabar.com/img/?tool=facebook" alt="facebook" width="30px">](https://www.facebook.com/anshaj.sharma.79)
+[<img src="https://logo.letskhabar.com/img/?tool=facebook" alt="facebook" width="30px">](https://www.facebook.com/anshaj.sharma.79) -->
 
 ## ⚙️ &nbsp;GitHub Analytics:
 <p align="center">
